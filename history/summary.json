@@ -5,7 +5,7 @@
     "slug": "prokerala",
     "status": "up",
     "uptime": "100.00%",
-    "time": 348
+    "time": 371
   },
   {
     "name": "Prokerala API",
@@ -13,6 +13,6 @@
     "slug": "prokerala-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 326
+    "time": 451
   }
 ]
