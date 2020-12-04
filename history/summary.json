@@ -5,7 +5,15 @@
     "slug": "prokerala",
     "status": "up",
     "uptime": "100.00%",
-    "time": 376
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 371,
+    "timeDay": 305,
+    "timeWeek": 384,
+    "timeMonth": 371,
+    "timeYear": 371
   },
   {
     "name": "Prokerala API",
@@ -13,6 +21,14 @@
     "slug": "prokerala-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 448
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 440,
+    "timeDay": 347,
+    "timeWeek": 513,
+    "timeMonth": 440,
+    "timeYear": 440
   }
 ]
