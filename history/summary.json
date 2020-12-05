@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 305,
-    "timeWeek": 384,
-    "timeMonth": 371,
-    "timeYear": 371
+    "time": 368,
+    "timeDay": 323,
+    "timeWeek": 390,
+    "timeMonth": 368,
+    "timeYear": 368
   },
   {
     "name": "Prokerala API",
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 347,
-    "timeWeek": 513,
-    "timeMonth": 440,
-    "timeYear": 440
+    "time": 428,
+    "timeDay": 278,
+    "timeWeek": 514,
+    "timeMonth": 428,
+    "timeYear": 428
   }
 ]
