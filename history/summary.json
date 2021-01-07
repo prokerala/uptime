@@ -4,18 +4,20 @@
     "url": "https://www.prokerala.com",
     "icon": "https://favicons.githubusercontent.com/www.prokerala.com",
     "slug": "prokerala",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 1408,
-    "timeWeek": 467,
-    "timeMonth": 434,
-    "timeYear": 419,
-    "dailyMinutesDown": {}
+    "time": 882,
+    "timeDay": 12249,
+    "timeWeek": 3295,
+    "timeMonth": 1142,
+    "timeYear": 882,
+    "dailyMinutesDown": {
+      "2021-01-07": 0
+    }
   },
   {
     "name": "Prokerala API",
