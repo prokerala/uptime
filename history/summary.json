@@ -4,7 +4,7 @@
     "url": "https://www.prokerala.com",
     "icon": "https://favicons.githubusercontent.com/www.prokerala.com",
     "slug": "prokerala",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1791,
     "timeYear": 590,
     "dailyMinutesDown": {
+      "2022-03-22": 0,
       "2022-02-25": 85,
       "2022-02-16": 23,
       "2022-02-10": 222,
