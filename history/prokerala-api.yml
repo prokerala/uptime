@@ -1,7 +1,7 @@
 url: https://api.prokerala.com
-status: down
-code: 503
-responseTime: 490
-lastUpdated: 2022-04-17T04:52:16.234Z
+status: up
+code: 200
+responseTime: 715
+lastUpdated: 2022-04-17T05:10:49.734Z
 startTime: Tue Nov 24 2020 12:46:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
