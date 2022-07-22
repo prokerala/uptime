@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 519,
-    "timeDay": 310,
-    "timeWeek": 336,
-    "timeMonth": 347,
+    "timeDay": 287,
+    "timeWeek": 322,
+    "timeMonth": 348,
     "timeYear": 629,
     "dailyMinutesDown": {
       "2022-04-17": 19,
@@ -27,8 +27,7 @@
       "2021-11-12": 79,
       "2021-10-29": 27,
       "2021-10-25": 83,
-      "2021-09-23": 38,
-      "2021-07-22": 48
+      "2021-09-23": 38
     }
   },
   {
@@ -38,20 +37,19 @@
     "slug": "prokerala-api",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "97.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
-    "time": 800,
-    "timeDay": 566,
-    "timeWeek": 753,
-    "timeMonth": 716,
-    "timeYear": 649,
+    "time": 801,
+    "timeDay": 895,
+    "timeWeek": 752,
+    "timeMonth": 717,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2022-07-20": 34,
       "2022-06-26": 39,
-      "2022-04-17": 19,
-      "2021-07-22": 48
+      "2022-04-17": 19
     }
   }
 ]
