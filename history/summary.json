@@ -4,7 +4,7 @@
     "url": "https://www.prokerala.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.prokerala.com.ico",
     "slug": "prokerala",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1073,
     "timeYear": 857,
     "dailyMinutesDown": {
+      "2023-10-02": 0,
       "2023-09-20": 48,
       "2023-09-14": 16,
       "2023-08-10": 45,
