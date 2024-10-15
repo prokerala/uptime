@@ -36,19 +36,19 @@
     "url": "https://api.prokerala.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.prokerala.com.ico",
     "slug": "prokerala-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 294,
-    "timeWeek": 422,
-    "timeMonth": 429,
+    "time": 396,
+    "timeDay": 354,
+    "timeWeek": 421,
+    "timeMonth": 428,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 21
     }
   }
 ]
