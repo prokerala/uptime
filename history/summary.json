@@ -4,17 +4,17 @@
     "url": "https://www.prokerala.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.prokerala.com.ico",
     "slug": "prokerala",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "52.78%",
-    "uptimeWeek": "54.78%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "99.13%",
-    "time": 896,
-    "timeDay": 344,
-    "timeWeek": 437,
-    "timeMonth": 605,
-    "timeYear": 910,
+    "uptimeDay": "53.98%",
+    "uptimeWeek": "56.26%",
+    "uptimeMonth": "89.94%",
+    "uptimeYear": "99.16%",
+    "time": 895,
+    "timeDay": 347,
+    "timeWeek": 436,
+    "timeMonth": 604,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-03-10": 435,
       "2025-03-09": 732,
@@ -22,7 +22,7 @@
       "2025-03-07": 609,
       "2025-03-06": 571,
       "2025-03-05": 891,
-      "2025-03-04": 602
+      "2025-03-04": 452
     }
   },
   {
