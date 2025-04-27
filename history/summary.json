@@ -6,24 +6,24 @@
     "slug": "prokerala",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "50.11%",
-    "uptimeWeek": "49.54%",
-    "uptimeMonth": "87.67%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "49.34%",
+    "uptimeWeek": "49.43%",
+    "uptimeMonth": "87.85%",
+    "uptimeYear": "98.99%",
     "time": 537,
-    "timeDay": 287,
-    "timeWeek": 302,
+    "timeDay": 289,
+    "timeWeek": 301,
     "timeMonth": 369,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-04-27": 565,
+      "2025-04-27": 637,
       "2025-04-26": 719,
       "2025-04-25": 697,
       "2025-04-24": 778,
       "2025-04-23": 901,
       "2025-04-22": 692,
       "2025-04-21": 573,
-      "2025-04-20": 478
+      "2025-04-20": 327
     }
   },
   {
