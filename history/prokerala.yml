@@ -1,7 +1,7 @@
 url: https://www.prokerala.com
-status: up
-code: 200
-responseTime: 366
-lastUpdated: 2025-08-30T06:51:01.889Z
+status: down
+code: 429
+responseTime: 276
+lastUpdated: 2025-08-30T08:32:40.240Z
 startTime: 2020-11-24T12:32:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
