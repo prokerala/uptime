@@ -6,13 +6,13 @@
     "slug": "prokerala",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "64.12%",
+    "uptimeDay": "65.50%",
     "uptimeWeek": "69.13%",
     "uptimeMonth": "90.48%",
     "uptimeYear": "99.21%",
     "time": 453,
-    "timeDay": 420,
-    "timeWeek": 459,
+    "timeDay": 418,
+    "timeWeek": 457,
     "timeMonth": 422,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "url": "https://api.prokerala.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.prokerala.com.ico",
     "slug": "prokerala-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -45,6 +45,7 @@
     "timeMonth": 365,
     "timeYear": 370,
     "dailyMinutesDown": {
+      "2025-09-08": 0,
       "2025-06-23": 21,
       "2024-10-15": 21
     }
