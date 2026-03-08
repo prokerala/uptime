@@ -8,7 +8,7 @@
     "uptime": "99.68%",
     "uptimeDay": "43.67%",
     "uptimeWeek": "51.99%",
-    "uptimeMonth": "79.59%",
+    "uptimeMonth": "79.58%",
     "uptimeYear": "98.30%",
     "time": 388,
     "timeDay": 290,
@@ -16,7 +16,7 @@
     "timeMonth": 312,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2026-03-08": 0,
+      "2026-03-08": 4,
       "2026-03-07": 849,
       "2026-03-06": 706,
       "2026-03-05": 520,
