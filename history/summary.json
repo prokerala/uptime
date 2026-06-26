@@ -4,16 +4,16 @@
     "url": "https://www.prokerala.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.prokerala.com.ico",
     "slug": "prokerala",
-    "status": "down",
+    "status": "up",
     "uptime": "99.07%",
     "uptimeDay": "35.74%",
-    "uptimeWeek": "52.35%",
+    "uptimeWeek": "52.14%",
     "uptimeMonth": "48.42%",
-    "uptimeYear": "94.83%",
+    "uptimeYear": "94.82%",
     "time": 379,
-    "timeDay": 155,
-    "timeWeek": 259,
-    "timeMonth": 261,
+    "timeDay": 187,
+    "timeWeek": 263,
+    "timeMonth": 262,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2026-05-20": 835,
@@ -53,7 +53,7 @@
       "2026-06-23": 591,
       "2026-06-24": 653,
       "2026-06-25": 753,
-      "2026-06-26": 244
+      "2026-06-26": 275
     }
   },
   {
